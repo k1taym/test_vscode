@@ -2,7 +2,9 @@
 <package format="2">
   <name>first_package</name>
   <version>0.0.0</version>
-  <description>The first_package package</description>
+  <description>The first_package Package and Testing</description>
+
+  <!--BLAH BALH BLAH OR SOME SHIT!-->
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
